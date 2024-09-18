@@ -1,0 +1,97 @@
+#imageNav {
+
+    width: 150%; 
+    height: auto; 
+    float: left;
+   
+}
+
+#body {
+    background-color: white;
+
+}
+
+#navbar {
+    top: 0px;
+}
+
+
+#navbar {
+    background-color: #336699;
+}
+
+#NCBITEXT {
+    font-size: 22px;
+    color: white;
+    margin-right : 10%;
+
+}
+
+
+#exampleFormControlTextarea2 {
+
+    background-color: white;
+    width: 550px;
+}
+
+
+
+.form-check-label {
+    font-weight: bold;
+}
+
+
+
+#fields {
+
+    padding: 3px;
+}
+
+#connectors {
+    padding: 3px;
+
+}
+
+
+p {
+    font-weight: bold;
+}
+
+.container {
+
+
+
+    padding: 80px;
+    
+    border: 2px solid #336699;
+}
+
+#forcenter {
+    padding: 5% 5% 5% 5%;
+}
+
+#searchbutton {
+    font-weight: bold;
+    font-size: 20px;
+    background-color: #336699;
+      border: none;
+}
+
+
+#changeButton {
+
+    background-color: #336699;
+      border: none;
+    color: white;
+    font-weight: bold;
+
+}
+
+
+
+#leftParButton, #rightPartButton , #delleftParButton, #delrightPartButton ,#cleanButton {
+	background-color: #336699;
+    border: none;
+}
+
+
